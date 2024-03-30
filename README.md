@@ -22,3 +22,7 @@ LectureMate is an innovative tool designed to assist in the educational process 
 - **data_preprocessing.py:** Содержит функции для предварительной обработки данных, например, очистка текста, токенизация.
 - **model_training.py:** Модуль для обучения моделей машинного обучения или нейронных сетей на обработанных данных.
 - **requirements.txt:** Файл с перечислением всех необходимых библиотек и их версий для установки через pip install -r requirements.txt.
+
+- ## Dataset
+- **Ukrainian** dataset was taken from https://github.com/egorsmkv/speech-recognition-uk
+- **Russian** dataset was taken from - https://commonvoice.mozilla.org/ru/datasets
