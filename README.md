@@ -23,5 +23,5 @@
 - **model_training.py:** Модуль для навчання моделей машинного навчання або нейронних мереж на оброблених даних.
 - **requirements.txt:** Файл із переліком усіх необхідних бібліотек та їхніх версій для встановлення через pip install -r requirements.txt.
 
-- ## Dataset
+  ## Dataset
 - **Ukrainian** dataset was taken from https://github.com/egorsmkv/speech-recognition-uk
